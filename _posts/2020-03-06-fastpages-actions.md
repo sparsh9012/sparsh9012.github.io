@@ -19,8 +19,6 @@ Recently, I've been able to use GitHub Actions to build some very unique tools f
 
 [fastpages](https://github.com/fastai/fastpages) is an automated, open-source blogging platform with enhanced support for Jupyter notebooks.  You save your notebooks, markdown, or Word docs into a directory on GitHub, and they automatically become blog posts. Read the announcement below:
 
-<center>{% twitter https://twitter.com/jeremyphoward/status/1232059428238581760?s=20 %}</center>
-
 ## Machine Learning Ops
 
 Wouldn't it be cool if you could invoke a chatbot natively on GitHub to test your machine learning models on the infrastructure of your choice (GPUs), log all the results, and give you a rich report back in a pull request so that everyone could see the results?  You can with GitHub Actions!
