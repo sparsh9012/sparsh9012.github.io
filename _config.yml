@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Sparsh Portfolio
+url: 
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -10,15 +10,15 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Projects and Blog posts on Artificial Intelligence
 author:
-  name:
-  email:
+  name: sparsh agarwal
+  email: sparsh.cloud@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Base Template
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://github.com/sparsh9012/sparsh9012.github.io
 
 # -----
 # Build
