@@ -9,7 +9,7 @@ type: Document
 
 A recommender system is an information filtering system that seeks to predicts the rating given by a user to an item. This predicted rating then used to recommend items to the user. The item for which the predicted rating is high will be recommended to the user. This recommender system is utilized in recommendation of a broad range of items. For instance, it can be used to recommend movies, products, videos, music, books, news, Facebook friends, clothes, Twitter pages, Android/ios apps, hotels, restaurants, routes etc. It is used by almost all of the major companies to enhance their business and to enrich user experience like YouTube for recommending videos, Amazon & Ebay for recommending products, Netflix for recommending Movies, Airbnb for recommending rooms and hotels, Facebook for recommending friends etc.
 
-![images/Untitled.png](Theory/Untitled.png)
+![images/Untitled.png](images/Untitled.png)
 
 A [recommendation system](https://en.wikipedia.org/wiki/Recommender_system) seeks to understand the user preferences with the objective of recommending him or her items. These systems has become increasingly popular in recent years, in parallel with the growth of internet retailers like Amazon, Netflix or Spotify. Recommender systems are used in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general. In terms of business impact, according to a recent [study](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.895.3477&rep=rep1&type=pdf) from Wharton School, recommendation engines can cause a 25% lift in number of views and 35% lift in number of items purchased. So it is worth to understand these systems.
 
@@ -17,15 +17,15 @@ A [recommendation system](https://en.wikipedia.org/wiki/Recommender_system) seek
 
 In general, recommendation lists are generated based on user preferences, item features, user-item past interactions and some other additional information such as temporal (e.g., sequence-aware recommender) and spatial (e.g., POI recommender) data. Recommendation models are mainly categorized into collaborative ltering, content-based recommender system and hybrid recommender system based on the types of input data.
 
-![images/Untitled%201.png](Theory/Untitled%201.png)
+![images/Untitled%201.png](images/Untitled%201.png)
 
 Collaborative ****fitering makes recommendations by learning from user-item historical interactions, either explicit (e.g. user’s previous ratings) or implicit feedback (e.g. browsing history). Content-based recommendation is based primarily on comparisons across items’ and users’ auxiliary information. A diverse range of auxiliary information such as texts, images and videos can be taken into account. Hybrid ****model refers to recommender system that integrates two or more types of recommendation strategies.
 
-![images/image_(11).png](Theory/image_(11).png)
+![images/image_(11).png](images/image_(11).png)
 
 Recommendation engines have been around for a while and there have been some key learnings to leverage: A user’s actions are the best indicator of user intent. Ratings and feedback tends to be very biased and lower volumes. Past actions and purchases drive new purchases and the overlap with other people’s purchases and actions is a fantastic predictor.
 
-![images/Untitled%202.png](Theory/Untitled%202.png)
+![images/Untitled%202.png](images/Untitled%202.png)
 
 ### Articles
 
